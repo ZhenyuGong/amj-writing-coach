@@ -1,3 +1,6 @@
 /papers/
 *.pdf
 /.validation/
+/catalog/crossref-candidates.json
+/crossref-test.json
+/fte-collection-snapshot.txt
