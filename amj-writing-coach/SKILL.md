@@ -7,8 +7,6 @@ description: Diagnose, plan, draft, or revise an empirical management paper usin
 
 Use the seven editorials as a decision framework, not as a guarantee of acceptance or a substitute for current journal instructions. Read [references/series-guide.md](references/series-guide.md) for the section or problem at hand. Use [references/sources.md](references/sources.md) when attributing guidance or checking a DOI.
 
-For a broader AMJ topic, consult the [From the Editors collection inventory](references/fte-collection.md) to locate relevant editorials. This inventory is bibliographic; do not imply that its articles have all been fully read or distilled into the guidance below.
-
 ## Work with a manuscript
 
 1. Identify the user's research question, evidence, target outlet, study type, and present draft stage. Infer what is available; ask only for material genuinely needed to continue.

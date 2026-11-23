@@ -2,9 +2,9 @@
 
 来源：[Academy of Management Journal 官方合集](https://journals.aom.org/journal/amj/fte-collection)。按该页面 2026-11-23 的展示顺序收录，共 **35 篇**。这是官方精选页面的目录，不等于 AMJ 历年所有 From the Editors 文章。题名与成员资格据官方合集页面；DOI、作者及卷期页码用 Crossref 元数据核对。页面以后可能更新。
 
-这是文献目录，尚未把每篇文章的全文观点提炼为 skill 规则。主题栏是本仓库按题名制作的检索标签，不代表期刊正式分类。完整作者和机器可读元数据见仓库中的 [CSV](https://github.com/ZhenyuGong/amj-writing-coach/blob/main/catalog/collection.csv) 与 [JSON](https://github.com/ZhenyuGong/amj-writing-coach/blob/main/catalog/collection.json)。
+这是文献目录。逐篇阅读状态与已完成的原创笔记见 [阅读记录](reading-status.md) 和 [精读笔记](paper-notes.md)。主题栏是本仓库按题名制作的检索标签，不代表期刊正式分类。完整作者和机器可读元数据见仓库中的 [CSV](https://github.com/ZhenyuGong/amj-writing-coach/blob/main/catalog/collection.csv) 与 [JSON](https://github.com/ZhenyuGong/amj-writing-coach/blob/main/catalog/collection.json)。
 
-原有的 2011–2012 年七篇 `Publishing in AMJ` 系列与此精选页面并不等同：本页面只列出系列第 3 篇 *Setting the Hook*。原七篇仍见 [七篇系列索引](sources.md)。
+原有的 2011–2012 年七篇 `Publishing in AMJ` 系列与此精选页面并不等同：本页面只列出系列第 3 篇 *Setting the Hook*。原七篇仍见 [七篇系列索引](../../amj-writing-coach/references/sources.md)。
 
 | # | 期次 | 文章（DOI 链接） | 主题 |
 | ---: | :--- | :--- | :--- |
@@ -44,8 +44,7 @@
 | 34 | 2010-08 | [Moving Forward by Looking Back: Reclaiming Unconventional Research Contexts and Samples in Organizational Scholarship](https://doi.org/10.5465/amj.2010.52814357) | 研究情境与样本 |
 | 35 | 2009-10 | [For the Lack of a Boilerplate: Tips on Writing Up (and Reviewing) Qualitative Research](https://doi.org/10.5465/amj.2009.44632557) | 定性写作与审稿 |
 
-## 收集状态
+## 使用边界
 
-- 35 篇均已编目并核对 DOI；本次先完成目录收集，全文精读与写作规则蒸馏尚未完成。
+- 35 篇均已编目并核对 DOI；只有在 [阅读记录](reading-status.md) 标为已有全文与实质阅读笔记的文章可作为提炼建议的依据。
 - 公开 GitHub 仓库仅保存目录、原创总结和链接，不存放受版权保护的论文 PDF。
-- 已有的本地七篇系列 PDF 与本合集重合 1 篇（第 32 条）；其余合集文章尚未批量下载。
