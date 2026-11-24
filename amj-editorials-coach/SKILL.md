@@ -1,5 +1,5 @@
 ---
-name: amj-fte-research-coach
+name: amj-editorials-coach
 description: Analyze or plan empirical management research using verified readings from AMJ's broader From the Editors collection. Use for phenomenon-driven framing, qualitative theoretical contribution, multimethod design, research canvas, collaboration, or responsible AI in scholarship. Separate from the seven-part Publishing in AMJ writing coach.
 ---
 

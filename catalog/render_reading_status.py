@@ -26,6 +26,6 @@ for row in catalog:
     title = row["title"].replace("|", "\\|")
     lines.append(f"| {row['number']} | {row['issue_month']} | [{title}]({row['url']}) | {state} | {source} |")
 lines.extend(["", "已完成笔记见 [paper-notes.md](paper-notes.md)；合集完整题录见 [collection.md](collection.md)。", ""])
-target = ROOT / "amj-fte-research-coach" / "references" / "reading-status.md"
+target = ROOT / "amj-editorials-coach" / "references" / "reading-status.md"
 target.write_text("\n".join(lines), encoding="utf-8")
 print(f"Rendered {len(catalog)} statuses: {len(evidence)} with PDFs, {len(catalog)-len(evidence)} pending")

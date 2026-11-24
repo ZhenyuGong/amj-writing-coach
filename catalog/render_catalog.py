@@ -70,7 +70,7 @@ def main():
         "- 公开 GitHub 仓库仅保存目录、原创总结和链接，不存放受版权保护的论文 PDF。",
         "",
     ]
-    (PROJECT / "amj-fte-research-coach" / "references" / "collection.md").write_text("\n".join(lines), encoding="utf-8")
+    (PROJECT / "amj-editorials-coach" / "references" / "collection.md").write_text("\n".join(lines), encoding="utf-8")
     print(f"Rendered {len(rows)} collection entries")
 
 
