@@ -7,9 +7,7 @@
 | [AMJ Writing Coach](amj-writing-coach/SKILL.md) | 围绕 *Publishing in AMJ* 七篇社论，诊断和修改选题、设计、引言、假设、方法与结果、讨论、定性论文 | `$amj-writing-coach` |
 | [AMJ Editorials Coach](amj-editorials-coach/SKILL.md) | 查阅 AMJ 官方 *From the Editors* 合集，并用已有全文阅读笔记辅助研究设计与写作判断 | `$amj-editorials-coach` |
 
-展示名称中的 **AMJ** 统一大写。Codex 规定 skill 调用名只能使用小写字母、数字和连字符，因此 `$amj-...` 保持小写；它不影响展示名称。
-
-两套 skill 不会自动混合。先选与你当前问题对应的一套；如果希望比较两套建议，可在提问中明确说出。它们提供写作诊断和修改建议，不会代替作者核对事实、方法与引用，也不会自动学习个人文风。
+两套 skill 不会自动混合。先选与你当前问题对应的一套；如果希望比较两套建议，可在提问中明确说出。它们提供写作诊断和修改建议，不会代替作者核对事实、方法与引用。
 
 ## 学生如何使用
 
