@@ -1,5 +1,7 @@
 # AMJ Writing Coach
 
+Skill display names: **AMJ Writing Coach** and **AMJ Editorials Coach**. Codex invocation IDs remain lowercase (`$amj-writing-coach`, `$amj-editorials-coach`) as required by its skill name format.
+
 [中文使用与分享指南](README.zh-CN.md)
 
 A Codex skill based on the seven-part *Publishing in AMJ* editorial series (2011–2012). It helps diagnose, plan, draft, and revise empirical management papers. The skill contains original synthesis and links to the source articles.
