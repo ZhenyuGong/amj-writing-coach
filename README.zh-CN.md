@@ -33,12 +33,4 @@ $amj-editorials-coach 我正在设计一项现象驱动的定量研究。请根�
 
 仓库公开的是原创整理、题录和来源链接；论文 PDF 不随仓库分发。论文观点请以[AMJ 官方合集](https://journals.aom.org/journal/amj/fte-collection)及原文为准。本项目与 Academy of Management 无隶属关系。
 
-## 可直接转发的介绍
 
-**微信群：**
-
-> 我整理了两套 AMJ 论文写作资料和 Codex skill，免费公开在 GitHub：一套聚焦 *Publishing in AMJ* 七篇写作社论；另一套单独整理 AMJ 官方 *From the Editors* 合集。仓库里有 35 篇目录、逐篇阅读状态及已取得全文文章的笔记。写引言、设计研究、梳理理论贡献时可以按需使用。仓库：https://github.com/ZhenyuGong/amj-writing-coach
-
-**朋友圈：**
-
-> 分享一份给管理学论文写作同学的 AMJ 资料：七篇写作系列 + *From the Editors* 官方合集，做成两套可独立调用的 Codex skill。附 35 篇目录、阅读进度和原创笔记；仍在继续补充全文精读。欢迎取用、转给需要的同学：https://github.com/ZhenyuGong/amj-writing-coach
